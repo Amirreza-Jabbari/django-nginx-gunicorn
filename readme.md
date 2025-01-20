@@ -186,7 +186,6 @@
 # منابع
 
 ## مقالات:
-</div>
 
  - https://www.digitalocean.com/community/tutorials/how-to-deploy-a-local-django-app-to-a-vps
 
